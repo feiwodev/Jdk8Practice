@@ -1,4 +1,4 @@
-package xyz.feiwo.jdk8;
+package xyz.feiwo.jdk8.functional;
 
 import javax.swing.*;
 import java.awt.event.ActionEvent;

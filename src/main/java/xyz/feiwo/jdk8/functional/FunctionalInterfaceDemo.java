@@ -1,4 +1,4 @@
-package xyz.feiwo.jdk8;
+package xyz.feiwo.jdk8.functional;
 
 /**
  * Created feiwo by 2019/8/30
